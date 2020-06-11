@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Find My Pet</string>
+    <string name="Texto_nombre">Nombre: </string>
+    <string name="Texto_raza">Raza: </string>
+    <string name="Texto_cidudad">Ciudad: </string>
+    <string name="Texto_direccion">Direccion:  </string>
+    <string name="Hint_raza">digite la raza de la mascota</string>
+    <string name="Hint_nombre">digite el nombre de la mascota</string>
+    <string name="Hint_ciudad">digite la ciudad donde se perdio</string>
+    <string name="Hint_direccion">digite la dirección donde se perdio</string>
+    <string name="texto_guardar">Registrar</string>
+    <string name="Texto_listado">Listado</string>
+    <string name="texto_titulo">Lista de mascostas perdidas</string>
+    <string name="texto_mapa">Mapa</string>
+    <string name="borrar_registro">Eliminar</string>
+    <string name="texto_blanco"></string>
+    <string name="texto_listado_vertical">Lista</string>
+    <string name="grip">Columnas</string>
+    <string name="cambio">Cambio de vista</string>
+    <string name="texto_ultima">Ultima vez visto:</string>
+    <string name="description_foto">imagen de la mascota perdida</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
